@@ -20,3 +20,5 @@
 
 - How to implement multiagents
   - How to deal with negociations 
+
+- Already have midi mapping for following style via pedal in subpatch [pedals123]
